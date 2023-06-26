@@ -62,3 +62,5 @@ public class Calculator {
         this.calcDistortion = calcDistortion;
     }
 }
+
+// О, дааааа
